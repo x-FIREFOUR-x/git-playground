@@ -19,7 +19,7 @@ namespace NiceProject
             var sum = 0;
             foreach (var number in allNumbers)
             {
-                sum += number;
+               sum += number;
             }
 
             return sum;
